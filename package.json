@@ -1,0 +1,23 @@
+{
+  "name": "uikit-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "npx lerna bootstrap --hoist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temping/uikit-guide.git"
+  },
+  "keywords": [
+    "lerna",
+    "uikit"
+  ],
+  "author": "AHN HO JUNG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/temping/uikit-guide/issues"
+  },
+  "homepage": "https://github.com/temping/uikit-guide#readme"
+}
